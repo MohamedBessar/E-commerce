@@ -11,8 +11,9 @@ E-commerce website requirements
     - Add to cart button.
     - search engine by name, category, and price.
     - User can sort product by price.
-  > - We can put recommendations by Machine Learning.
     - footer includes (How to contact customer service and more info about the website).
+  > - We can put recommendations by Machine Learning.
+    
 
 #### Registering page:
     - Logo in top center of page.
